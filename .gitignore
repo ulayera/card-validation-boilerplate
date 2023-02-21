@@ -1,0 +1,16 @@
+coverage/
+node_modules/
+dist/
+.parcel-cache/
+.DS_Store
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+package-lock.json
